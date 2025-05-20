@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure [In progress]</b>
-  - 
+  - [Creating a VM in Azure](https://github.com/vinohef/create-a-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/vinohef/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vinohef/azure-network-protocols)
 
